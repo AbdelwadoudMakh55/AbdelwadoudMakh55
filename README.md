@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Abdelwadoud Makhlok
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Azure Functions
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [@Abdelwadoud Makhlok](https://www.linkedin.com/in/abdelwadoud-makhlok-b9103225b/)
 
 <!---
 AbdelwadoudMakh55/AbdelwadoudMakh55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
