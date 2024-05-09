@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelwadoud Makhlok
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Azure Functions
+- 🌱 I’m currently learning Microsoft Azure
 - 📫 How to reach me [@Abdelwadoud Makhlok](https://www.linkedin.com/in/abdelwadoud-makhlok-b9103225b/)
 
 <!---
